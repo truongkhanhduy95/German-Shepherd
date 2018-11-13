@@ -11,6 +11,8 @@
     "posttest": "npm run lint && nsp check "
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^0.13.4",
+    "@tensorflow/tfjs-node": "^0.1.20",
     "btoa": "^1.2.1",
     "compression": "^1.0.3",
     "concurrently": "^3.6.0",
