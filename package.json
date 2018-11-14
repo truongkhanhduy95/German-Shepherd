@@ -11,6 +11,7 @@
     "posttest": "npm run lint && nsp check "
   },
   "dependencies": {
+    "@tensorflow-models/mobilenet": "^0.2.2",
     "@tensorflow/tfjs": "^0.13.4",
     "@tensorflow/tfjs-node": "^0.1.20",
     "btoa": "^1.2.1",
@@ -18,11 +19,13 @@
     "concurrently": "^3.6.0",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
+    "jpeg-js": "^0.3.4",
     "loopback": "^3.22.0",
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^6.2.0",
     "loopback-component-storage": "^3.5.0",
     "loopback-connector-mysql": "^2.4.1",
+    "node-fetch": "^2.3.0",
     "node-find-folder": "^0.1.32",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^3.0.0"
