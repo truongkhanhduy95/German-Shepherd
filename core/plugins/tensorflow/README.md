@@ -1,5 +1,19 @@
 # TensorflowJS
-https://github.com/truongkhanhduy95/German-Shepherd/tree/features/TensorflowJS-integration/core/plugins/tensorflow
+
+TensorFlow.js is an open-source hardware-accelerated JavaScript library for
+training and deploying machine learning models.
+
+**Develop ML in the Browser** <br/>
+Use flexible and intuitive APIs to build models from scratch using the low-level
+JavaScript linear algebra library or the high-level layers API.
+
+**Run Existing models** <br/>
+Use TensorFlow.js model converters to run pre-existing TensorFlow models right
+in the browser.
+
+**Retrain Existing models** <br/>
+Retrain pre-existing ML models using sensor data connected to the browser, or
+other client-side data.
 
 ## Usage
 
