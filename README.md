@@ -5,14 +5,14 @@ Currently version is LoopBack 3.0
 
 ## Usage
 
-1) After pull code, run 
+1) After pull code, run:
 
 ```console
 foo@bar:~$ npm install
 ```
 
 
-2) To start server, run 
+2) To start server, run:
 
 ```console
 foo@bar:~$  npm start
