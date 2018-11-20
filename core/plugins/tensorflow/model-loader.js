@@ -12,5 +12,4 @@ const loadMobileNet = async() => {
   return model;
 }
 
-
 module.exports.loadMobileNet = loadMobileNet;
