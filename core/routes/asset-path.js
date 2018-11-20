@@ -1,5 +1,5 @@
 'use strict';
-const { classify } = require('../plugins/tensorflow/model-loader')
+const ImageClassifier = require('../plugins/tensorflow/image-classifier')
 
 module.exports = function (app) {
   let path = require('path');
@@ -11,7 +11,7 @@ module.exports = function (app) {
   app.get('/tensorflow/mobilenet',
     async (req, res, next) => {
       // do something with req
-      const result = await classify('./storage/image.jpg');
+      const result = await ImageClassifier.classify('./storage/flower.jpeg');
       res.status(200).send(result)
     }
   );
