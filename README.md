@@ -50,6 +50,10 @@ foo@bar:~$  npm start
 }
 ```
 
+## Addition plugins
+  * [Tensorflow integration](https://github.com/truongkhanhduy95/German-Shepherd/tree/master/core/plugins/tensorflow).
+  * [Container Storage](https://github.com/truongkhanhduy95/German-Shepherd/tree/master/core/plugins/storage-helper).
+
 ## More about LoopBack
   * [Documentation](https://loopback.io/doc/).
   * [API documentation](https://apidocs.strongloop.com/loopback).
