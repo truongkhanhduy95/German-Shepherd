@@ -53,6 +53,7 @@ foo@bar:~$  npm start
 ## Addition plugins
   * [Tensorflow integration](https://github.com/truongkhanhduy95/German-Shepherd/tree/master/core/plugins/tensorflow).
   * [Container Storage](https://github.com/truongkhanhduy95/German-Shepherd/tree/master/core/plugins/storage-helper).
+  * [Word2Vec](https://github.com/truongkhanhduy95/German-Shepherd/tree/master/core/plugins/word2vec).
 
 ## More about LoopBack
   * [Documentation](https://loopback.io/doc/).
